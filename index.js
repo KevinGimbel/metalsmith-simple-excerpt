@@ -3,8 +3,8 @@ var simpleExcerpt = function(opts) {
   var opts = opts || {};
   var options = {
     size: opts.size || 50,
-    bufferSize: opts.bufferSize || 300
-    encoding: opts.encoding || 'utf-8',
+    bufferSize: opts.bufferSize || 300,
+    encoding: opts.encoding || 'utf-8'
   }
 
   return function(files, metalsmith, done) {
