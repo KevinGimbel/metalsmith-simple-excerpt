@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-simple-excerpt",
+  "version": "0.0.1",
+  "description": "Create excerpts from file contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevingimbel/metalsmith-simple-excerpt"
+  },
+  "keywords": [
+    "Metalsmith",
+    "Excerpt",
+    "Content"
+  ],
+  "author": "Kevin Gimbel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevingimbel/metalsmith-simple-excerpt/issues"
+  },
+  "homepage": "https://github.com/kevingimbel/metalsmith-simple-excerpt"
+}
